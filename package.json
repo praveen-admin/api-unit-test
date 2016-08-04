@@ -1,0 +1,24 @@
+{
+  "name": "unit-test-case",
+  "version": "1.0.0",
+  "description": "This repo contains sample Unit test case using Jasmine framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen-admin/api-unit-test.git"
+  },
+  "author": "praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen-admin/api-unit-test/issues"
+  },
+  "homepage": "https://github.com/praveen-admin/api-unit-test#readme",
+  "devDependencies": {
+    "karma": "^1.1.2",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}
